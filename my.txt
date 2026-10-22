@@ -1174,7 +1174,6 @@ LBRACE {
 RBRACE }
 <Block>
 <Stmt>
-<Stmt>
 IDENFR i
 <LVal>
 ASSIGN =
@@ -1808,5 +1807,5 @@ SEMICN ;
 <Stmt>
 RBRACE }
 <Block>
-<MainFuncDef>
+<MainDuncDef>
 <CompUnit>
